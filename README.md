@@ -1,9 +1,27 @@
-this is my first program - ever! - 10/26/2020
+## Creator's Notes
 
-this game is a movement based game centered around the office theme.
+This is my first program - ever! - 10/26/2020.
 
-the goal of this project was to create a working menu with working movement commands
+Centered around "The Office" this theme based game has my own attempt at witty banter between co-workers as the player attempts to escape the office before running out of health and ultimately working the weekend (boo).
 
-use the numbers to set your direction and try to escape the office. encountering a coworker will lower your health. 
+This game is a movement based game.
 
-this game is built on a x and y access plane - negative coordinates are possible. The doors are in the corners (-5,5 - 5,5 - 5,-5 - -5.-5)
+## The Goal
+To create a working menu with working movement commands
+
+## The Player's Goal
+
+Use the corresponding numbers in the in-game legend to guide your direction and try to escape the office. Encountering a coworker will lower your health. 
+
+This game is built on a x and y access plane - negative coordinates are possible. The doors are in the corners (-5,5 - 5,5 - 5,-5 - -5.-5)
+
+
+## Installation and Play
+$ git clone <repo>
+$ cd <repo>
+$ python3 game.py
+  
+  
+## Enjoy@
+
+- David Vaughan (Fububoo)
