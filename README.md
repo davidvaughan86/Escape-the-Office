@@ -1,4 +1,4 @@
-this is my first attempt t a python game - 10/26/2020
+this is my first program - ever! - 10/26/2020
 
 this game is a movement based game centered around the office theme.
 
