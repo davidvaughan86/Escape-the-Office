@@ -17,9 +17,9 @@ This game is built on a x and y access plane - negative coordinates are possible
 
 
 ## Installation and Play
-$ git clone <repo>
-$ cd <repo>
-$ python3 game.py
+- $ git clone (repo)
+- $ cd (repo)
+- $ python3 game.py
   
   
 ## Enjoy@
