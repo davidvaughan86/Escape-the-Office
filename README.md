@@ -1,6 +1,6 @@
 ## Creator's Notes
 
-This is my first program - ever! - 10/26/2020.
+This is my first program - ever! - 11/01/2020.
 
 Centered around "The Office" this theme based game has my own attempt at witty banter between co-workers as the player attempts to escape the office before running out of health and ultimately working the weekend (boo).
 
