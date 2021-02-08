@@ -28,4 +28,4 @@ Being that this was my first program I had ever written, I found the challenge t
 
 ## Enjoy@
 
-- David Vaughan (Fububoo)
+- David Vaughan (dave the dev)
