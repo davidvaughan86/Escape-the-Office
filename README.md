@@ -1,3 +1,5 @@
+<img src="https://github.com/davidvaughan86/davethedev-portfolio/blob/master/assets/images/escape%20the%20office.JPG" width="800" height="200" alt="Header picture" />
+
 ## Creator's Notes
 
 This is my first program - ever! - 11/01/2020.
@@ -21,7 +23,9 @@ This game is built on a x and y access plane - negative coordinates are possible
 - $ cd (repo)
 - $ python3 game.py
   
-  
+## Challenges & Solutions
+Being that this was my first program I had ever written, I found the challenge to be mostly in writing the code and getting things to work. I did a lot of MDN and Googling to get this game up and running. In the end it was a success and I learned a lot.
+
 ## Enjoy@
 
 - David Vaughan (Fububoo)
