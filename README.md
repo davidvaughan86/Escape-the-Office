@@ -1,4 +1,4 @@
-<img src="https://github.com/davidvaughan86/davethedev-portfolio/blob/master/assets/images/escape%20the%20office.JPG" width="800" height="200" alt="Header picture" />
+<img src="https://github.com/davidvaughan86/davethedev-portfolio/blob/master/assets/images/escape%20the%20office.JPG" width="400" height="200" alt="Header picture" />
 
 ## Creator's Notes
 
