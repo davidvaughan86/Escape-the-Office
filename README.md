@@ -1,4 +1,4 @@
-<img src="https://github.com/davidvaughan86/davethedev-portfolio/blob/master/assets/images/escape%20the%20office.JPG" width="600" height="400" alt="Header picture" />
+![logo-office](https://user-images.githubusercontent.com/72748788/115790473-c2958c00-a394-11eb-82ce-69fc3479ef68.png)
 
 ## Creator's Notes
 
